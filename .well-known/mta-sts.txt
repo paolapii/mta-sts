@@ -3,4 +3,3 @@ mode: testing
 mx: mx1.bitname.net
 mx: mx3.bitname.net
 max_age: 604800
-id: 20250714T095000Z
