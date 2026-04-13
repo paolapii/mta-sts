@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: mx1.bitname.net
 mx: mx3.bitname.net
-max_age: 604800
+max_age: 86400
